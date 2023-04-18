@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://tekdatum.com/">
-    <img src="images/tekDatum.png" alt="Logo" width="200" height="auto">
+    <img src="./images/tekDatum.png" alt="Logo" width="200" height="auto">
   </a>
 </div>
 
@@ -24,9 +24,43 @@ Services:
 
 ### Technologies We Work With:
 
-<div align="center">
-	<br>
-  <img src="./images/slider.svg">
-	<br>
-	</a>
-</div>
+<table>
+  <tr>
+    <td><img src="https://tekdatum.com/images/tools/pytorch_56.png" alt="pytorch"></td>
+    <td><img src="https://tekdatum.com/images/tools/scikit-learn_56.png" alt="scikit-learn"></td>
+    <td><img src="https://tekdatum.com/images/tools/rapids_56.png" alt="rapids"></td>
+    <td><img src="https://tekdatum.com/images/tools/openrefine_56.png" alt="Open Refine"></td>
+  </tr>
+  <tr>
+    <td><img src="https://tekdatum.com/images/tools/dask_56.png" alt="dask"></td>
+    <td><img src="https://tekdatum.com/images/tools/numpy_56.png" alt="numpy"></td>
+    <td><img src="https://tekdatum.com/images/tools/numba_56.png" alt="numba"></td>
+    <td><img src="https://tekdatum.com/images/tools/spark_56.png" alt="spark"></td>
+  </tr>
+  <tr>
+    <td><img src="https://tekdatum.com/images/tools/beam_56.png" alt="beam"></td>
+    <td><img src="https://tekdatum.com/images/tools/flink_56.png" alt="flink"></td>
+    <td><img src="https://tekdatum.com/images/tools/jupyter_56.png" alt="jupyter"></td>
+    <td><img src="https://tekdatum.com/images/tools/XGBoost_56.png" alt="XGBoost"></td>
+  </tr>
+  <tr>
+    <td><img src="https://tekdatum.com/images/tools/lightGBM_56.png" alt="Python"></td>
+    <td><img src="https://tekdatum.com/images/tools/optuna_56.png" alt="lightGBM"></td>
+    <td><img src="https://tekdatum.com/images/tools/catBoost_56.png" alt="catBoost"></td>
+    <td><img src="https://tekdatum.com/images/tools/pytorch_56.png" alt="pytorch"></td>
+  </tr>
+  <tr>
+    <td><img src="https://tekdatum.com/images/tools/scikit-learn_56.png" alt="scikit-learn"></td>
+    <td><img src="https://tekdatum.com/images/tools/rapids_56.png" alt="rapids"></td>
+    <td><img src="https://tekdatum.com/images/tools/openrefine_56.png" alt="Open Refine"></td>
+    <td><img src="https://tekdatum.com/images/tools/dask_56.png" alt="dask"></td>
+  </tr>
+  <tr>
+    <td><img src="https://tekdatum.com/images/tools/numpy_56.png" alt="numpy"></td>
+    <td><img src="https://tekdatum.com/images/tools/numba_56.png" alt="numba"></td>
+    <td><img src="https://tekdatum.com/images/tools/spark_56.png" alt="spark"></td>
+    <td><img src="https://tekdatum.com/images/tools/beam_56.png" alt="beam"></td>
+  </tr>
+  <tr>
+    <td><img src="https://tekdatum.com/images/tools/flink_56.png" alt="flink"></td>
+    <td

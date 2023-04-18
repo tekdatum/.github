@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://tekdatum.com/">
-    <img src="./images/tekDatum.png" alt="Logo" width="200" height="auto">
+    <img src="https://github.com/tekdatum/.github/blob/main/profile/images/tekDatum.png" alt="Logo" width="200" height="auto">
   </a>
 </div>
 
